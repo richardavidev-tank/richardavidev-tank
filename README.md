@@ -67,7 +67,7 @@
 ###
 
 <div align="center">
-  <img height="700" src="https://photos.fife.usercontent.google.com/pw/AP1GczOi3nN07vuF2F2vdi_Qm3oFPhx4UIlr53WVYK-q5CS6iKh9NVGzUzQ=w475-h633-s-no-gm?authuser=0"  />
+  <img height="700" src="https://photos.app.goo.gl/PUXGanoe7V3gc4az7"  />
 </div>
 
 ###
