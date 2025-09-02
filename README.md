@@ -67,7 +67,7 @@
 ###
 
 <div align="center">
-  <img height="700" src="(https://lh3.googleusercontent.com/pw/AP1GczPkuaP23xXX1MovXe6loLPQovwvirOM15Bh5-ITk1rB5CxD97vIhkc2PgynsTi7ltPN7st2iySK6-7r8X8dOWRR-Wm1PiPTMHFE00aFmiq78bekFfaov358TqMifUcbabzdCdNonpBKpiEPZ3SPnFc=w475-h633-s-no-gm?authuser=0)"  />
+  <img height="700" src="https://lh3.googleusercontent.com/pw/AP1GczPkuaP23xXX1MovXe6loLPQovwvirOM15Bh5-ITk1rB5CxD97vIhkc2PgynsTi7ltPN7st2iySK6-7r8X8dOWRR-Wm1PiPTMHFE00aFmiq78bekFfaov358TqMifUcbabzdCdNonpBKpiEPZ3SPnFc=w475-h633-s-no-gm?authuser=0"  />
 </div>
 
 ###
