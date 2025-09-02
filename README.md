@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTA4NWtiMTdvNmZyczQxOHdzZ3c2dzhweHZ2bTcybXN4MXkwbWQ0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Fr1ma61Lh1XspqQmRm/giphy.gif"  />
 </div>
 
 ###
@@ -11,6 +11,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouz.maurodesouz&left_color=black&right_color=royalblue&left_text=Richard%20David"  />
@@ -26,7 +28,9 @@
 
 ###
 
-<p align="left">Me chamo Richard David<br><br>- 🔭 Sem novidades<br>- 📚 Colhendo dados ... <br>                          - ⚡<br>Buscando melhorar como ser humano.</p>
+<br clear="both">
+
+<p align="left">Me chamo Richard David<br><br>- 🔭 Leitura corporal, Tecnologia em Logistica, Balconista de farmácia , estudante de Tecnologia da informação<\n> <br>- 📚 Com uma sólida base em segurança patrimonial, sou um profissional dedicado á gestão de riscos e controle de acessos. Minha paixão por tecnologia impulsiona a busca contínua por soluções inovadoras, integrando ferramentas de ponta para otimizar a proteção de ativos e pessoas.<br>                    mdt_paz = ⚡<br>Buscando melhorar como ser humano.</p>
 
 ###
 
@@ -50,27 +54,26 @@
 
 ###
 
-<br clear="both">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<p align="left">Hello World!!</p>
+
+###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&order=1&custom_title=Richard" height="250" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouz&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=maurodesouz&locale=pt-br&mode=weekly&theme=dark&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="220" alt="streak graph"  />
+  <img height="700" src="https://photos.fife.usercontent.google.com/pw/AP1GczOi3nN07vuF2F2vdi_Qm3oFPhx4UIlr53WVYK-q5CS6iKh9NVGzUzQ=w475-h633-s-no-gm?authuser=0"  />
 </div>
 
 ###
 
-<!--
-**richardavidev-tank/richardavidev-tank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31t5oc6mbwzq4sjdwljzrftn7lo4)?" alt="Widget with the current Spotify song"  />
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
